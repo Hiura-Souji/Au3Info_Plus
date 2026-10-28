@@ -6,7 +6,7 @@
 
 ---
 
-<img width="1200" height="950" alt="2026-10-29_021440" src="https://github.com/user-attachments/assets/b1ab81be-fb9d-4e41-ac2f-7e77478ec259" />
+<img width="1400" height="1020" alt="2026-10-29_023451" src="https://github.com/user-attachments/assets/597752b7-74c3-475b-ad27-69cd36b3767d" />
 
 ## 功能
 
